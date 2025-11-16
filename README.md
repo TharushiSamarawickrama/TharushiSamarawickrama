@@ -91,11 +91,21 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react" height="170" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react" height="170" />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react&border_radius=10&hide_border=true" 
+    height="170" 
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react&border_radius=10&hide_border=true" 
+    height="170" 
+  />
+
+</div>
 ---
 
 
