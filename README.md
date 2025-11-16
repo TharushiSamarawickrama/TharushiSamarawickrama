@@ -14,15 +14,7 @@
 
 ---
 
-## 🧠 About Me
 
-- 🎓 SLIIT Undergraduate (BSc. Hons in IT)  
-- 🤖 Deep Learning & Machine Learning enthusiast  
-- 🌐 MERN Stack Developer  
-- ☁️ Exploring Cloud Computing (AWS, Azure)  
-- 🔬 Skilled in CNNs, MobileNet, TensorFlow, React, Node.js  
-- 💡 Passionate about building real-world AI-powered applications  
-- 🤝 Love collaboration, teamwork & continuous learning  
 
 ---
 
