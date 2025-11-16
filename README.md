@@ -8,12 +8,10 @@
 
 🧑‍💻 <b>Information Technology Undergraduate | SLIIT</b><br>
 🎓 Final-year student passionate about AI/ML, Deep Learning, and Full-Stack Development.<br>
-💼 Currently working on MERN applications, AI/ML projects, and cloud-based systems.<br>
-🚀 Hands-on experience in modern development practices, cloud technologies, and team-based environments.<br>
 ✨ Interested in AI-driven solutions, Cloud Computing, Full-Stack Development, and intelligent automation.<br>
 🌱 Continuously learning, exploring new technologies, and contributing to real-world projects.<br>
-📩 Reach me at: <b>tharushisamarawickrama@gmail.com</b><br>
-💡 Fun fact: I love turning creative ideas into working applications!  
+📩 Reach me at: <b>tharushisamarawickrama80@gmail.com</b><br>
+ 
 
 </div>
 
