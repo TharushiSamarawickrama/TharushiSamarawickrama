@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tharushi Samarawickrama</h1>
-<h3 align="center">SLIIT Undergraduate | Passionate about AI/ML, Deep Learning & Full-Stack Development</h3>
 
 ---
 
@@ -8,7 +7,6 @@
 
 🧑‍💻 <b>Information Technology Undergraduate | SLIIT</b><br>
 🎓 Passionate about AI/ML, Deep Learning, and Full-Stack Development.<br>
-💼 Working on MERN apps, Deep Learning models, and Cloud-based solutions.<br>
 🚀 Love exploring modern tools, building real-world projects, and continuous learning.<br>
 📩 <b>Email:</b> tharushinawodya80@gmail.com<br>
 
@@ -94,10 +92,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react" height="170" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react" height="170" />
 </p>
 
 ---
 
-⭐ **Thank you for visiting my profile!**
+
