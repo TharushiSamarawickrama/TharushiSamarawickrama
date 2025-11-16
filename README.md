@@ -5,9 +5,8 @@
 <!-- About Me Card -->
 <div align="center" style="background-color:#f7f9fc; padding:20px; border-radius:10px; width:90%; margin:auto;">
 
-🧑‍💻 <b>Information Technology Undergraduate | SLIIT</b><br>
+ <b>Information Technology Undergraduate | SLIIT</b><br>
 🎓 Passionate about AI/ML, Deep Learning, and Full-Stack Development.<br>
-🚀 Love exploring modern tools, building real-world projects, and continuous learning.<br>
 📩 <b>Email:</b> tharushinawodya80@gmail.com<br>
 
 </div>
