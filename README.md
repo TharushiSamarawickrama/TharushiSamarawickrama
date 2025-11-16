@@ -95,21 +95,22 @@
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
 
-    <!-- GitHub Stats Card -->
+    <!-- Stats Card -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react&border_radius=10&hide_border=false" 
       height="170"
     />
 
-    <!-- Most Used Languages Card -->
+    <!-- Most Used Languages -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react&border_radius=10&hide_border=false" 
       height="170"
     />
 
-  
+  </div>
 
 </div>
+
 ---
 
 
