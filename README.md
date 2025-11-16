@@ -47,24 +47,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react&border_radius=10" 
+       height="170" 
+       style="margin-right: 20px;" 
+  />
 
-    <!-- Stats Card -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react&border_radius=10&hide_border=false" 
-      height="170"
-    />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react&border_radius=10" 
+       height="170" 
+  />
 
-    <!-- Most Used Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react&border_radius=10&hide_border=false" 
-      height="170"
-    />
-
-  </div>
-
-</div>
+</p>
 
 ---
