@@ -1,18 +1,32 @@
 <h1 align="center">Hi 👋, I'm Tharushi Samarawickrama</h1>
-<h3 align="center">SLIIT Undergraduate | Passionate about coding, AI/ML, and full-stack development</h3>
 
-<p align="center">🚀 Always experimenting, learning, and taking on new challenges with teamwork.</p>
+
+---
+
+<!-- About Me Card -->
+<div align="center" style="background-color:#f7f9fc; padding:20px; border-radius:10px; width:90%; margin: auto;">
+
+🧑‍💻 <b>Information Technology Undergraduate | SLIIT</b><br>
+🎓 Final-year student passionate about AI/ML, Deep Learning, and Full-Stack Development.<br>
+💼 Currently working on MERN applications, AI/ML projects, and cloud-based systems.<br>
+🚀 Hands-on experience in modern development practices, cloud technologies, and team-based environments.<br>
+✨ Interested in AI-driven solutions, Cloud Computing, Full-Stack Development, and intelligent automation.<br>
+🌱 Continuously learning, exploring new technologies, and contributing to real-world projects.<br>
+📩 Reach me at: <b>tharushisamarawickrama@gmail.com</b><br>
+💡 Fun fact: I love turning creative ideas into working applications!  
+
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/tharushi samarawickrama" target="blank">
+<a href="https://linkedin.com/in/tharushi samarawickrama" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -70,4 +84,4 @@
 
 ---
 
-⭐ **Thank you for visiting my profile!**  
+⭐ **Thank you for visiting my profile!**
