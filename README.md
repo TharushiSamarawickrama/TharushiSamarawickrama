@@ -42,23 +42,4 @@
 
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=tharushisamarawickrama&show_icons=true&theme=react&border_radius=10" 
-       height="170" 
-       style="margin-right: 20px;" 
-  />
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushisamarawickrama&layout=compact&theme=react&border_radius=10" 
-       height="170" 
-  />
-
-</p>
-
----
